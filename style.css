@@ -1,0 +1,32 @@
+.our-Primry-color-bg{
+    background: #745cf9;
+}
+.our-Primry-color-text{
+    color: #745cf9;
+}
+.Our-Primry-hover:hover{
+    color: #745cf9;
+}
+.primry-btn{
+    background-color: #745cf9;
+    color: white;
+}
+.primry-btn:hover{
+    background-color: #5b3eff;
+    color: white;
+}
+
+.Bg-img{
+    background-color: #0000004f;
+    background-size:cover;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+
+.H-100vh{
+    min-height: 90vh;
+     height: 100%;
+ }
